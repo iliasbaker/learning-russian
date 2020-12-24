@@ -3,10 +3,10 @@
 ## Contents
 
 - [About Russian](#about-russian)
-- [Beginner Resources](#beginner-resources)
+- [Beginner courses](#beginner-courses)
 - [Immersion Resources](#immersion-resources)
 
-## About the language
+## About Russian
 
 - [Wikipedia: Russian language](https://en.wikipedia.org/wiki/Russian_language)
 - [Wikipedia: Russian alphabet](https://en.wikipedia.org/wiki/Russian_alphabet)
