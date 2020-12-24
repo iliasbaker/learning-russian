@@ -3,14 +3,21 @@
 ## Contents
 
 - [About Russian](#about-russian)
+- [Guides to learning](#guides-to-learning)
 - [Beginner courses](#beginner-courses)
-- [Immersion Resources](#immersion-resources)
+- [Online dictionaries](#online-dictionaries)
+- [Immersion resources](#immersion-resources)
 
 ## About Russian
 
 - [Wikipedia: Russian language](https://en.wikipedia.org/wiki/Russian_language)
 - [Wikipedia: Russian alphabet](https://en.wikipedia.org/wiki/Russian_alphabet)
 - [Wikipedia: Russian grammar](https://en.wikipedia.org/wiki/Russian_grammar)
+
+## Guides to learning
+
+- [General Language Learning Guides](https://github.com/iliasbaker/learning-languages)
+- [r/Russian 'Full Course'](https://www.reddit.com/r/russian/wiki/full_course)
 
 ## Beginner courses
 
@@ -28,4 +35,9 @@
 Todo: update this with my own magnet link with fewer resources for faster download :))
 #### Online
 - [Между нами](https://mezhdunami.org/)
+
+## Online dictionaries
+
+- [Wiktionary](https://www.wiktionary.org/)
+- [Glosbe](https://es.glosbe.com/ru/en)
 
